@@ -1,7 +1,4 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Alfian Nahar</h1>
-<h3 align="center">Energetic and confidence Software Frontend Engineer from Indonesia</h3>
-
 🔭 I’m currently working on **TSG - Indonesia**<br>👯 I’m looking to collaborate on **Frontend / Fullstack project**<br>🌱 I’m currently learning **some AI / ML like, another language, or mobile dev**<br>💬 Ask me about **coding and job thing, or have an awesome project want to start? Let's Go!!**<br>⚡ Fun fact **full imagination! and for sure family oriented**<br>
 
 
@@ -17,12 +14,6 @@
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=alfianahar)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=alfianahar&icon=0&color=6)](https://visitcount.itsvg.in)
