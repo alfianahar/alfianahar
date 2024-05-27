@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **TSG - Indonesia**<br>👯 I’m looking to collaborate on **Frontend / Fullstack project**<br>🌱 I’m currently learning **some AI / ML like, another language, or mobile dev**<br>💬 Ask me about **coding and job thing, or have an awesome project want to start? Let's Go!!**<br>⚡ Fun fact **full imagination! and for sure family oriented**<br>
+🔭 I’m currently working on **MovelAI - Singapore**<br>👯 I’m looking to collaborate on **Frontend / Fullstack project**<br>🌱 I’m currently learning **some AI / ML like, another language, or mobile dev**<br>💬 Ask me about **coding and job thing, or have an awesome project want to start? Let's Go!!**<br>⚡ Fun fact **full imagination! and for sure family oriented**<br>
 
 
 ## 🌐 Socials:
